@@ -5,7 +5,7 @@ import javax.xml.transform.Source;
  */
 public class Homework_2 {
     public static void main(String[] args) {
-        System.out.println(isPolind("adda"));
+        System.out.println(isPolind("Polindrome"));
     }
 
     public static boolean isPolind(String source) {
